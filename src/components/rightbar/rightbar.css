@@ -1,3 +1,19 @@
 .rightbarContainer{
-    flex: 4;
+    flex: 3;
+}
+
+.birthdayIcon{
+    margin: 20px 10px;
+    width: 40px;
+    height: 40px;
+}
+
+.birthday{
+    display: flex;
+    align-items: center;
+}
+
+.adImg{
+    width: 100%;
+    border-radius: 10px;
 }

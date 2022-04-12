@@ -6,8 +6,8 @@ export default function Post() {
     <div className="postContainer">
         <div className="postTop">
             <div className="postTopLeft">
-            <img src="assets/person/7.jpeg" alt="" className="postProfileImg" />
-            <span className="postUsername">Praveen Dom</span>
+            <img src="assets/person/1.jpg" alt="" className="postProfileImg" />
+            <span className="postUsername">Nevin Paul</span>
             <span className="postDate">2 mins ago</span>
             </div>
             <div className="postTopRight">
