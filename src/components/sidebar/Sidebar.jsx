@@ -46,7 +46,7 @@ export default function Sidebar() {
       <ul className="sidebarFriendList">
         <li className="sidebarFriend">
           <img src="assets/person/2.jpeg" alt="" className="friendImg" />
-          <span className="sidebarFriendName">Praveen Dom</span>
+          <span className="sidebarFriendName">Dominic</span>
         </li>
         <li className="sidebarFriend">
           <img src="assets/person/3.jpg" alt="" className="friendImg" />
@@ -70,7 +70,7 @@ export default function Sidebar() {
         </li>
         <li className="sidebarFriend">
           <img src="assets/person/7.jpeg" alt="" className="friendImg" />
-          <span className="sidebarFriendName">Dominic</span>
+          <span className="sidebarFriendName">Praveen Dom</span>
         </li>
         <li className="sidebarFriend">
           <img src="assets/person/9.jpeg" alt="" className="friendImg" />
