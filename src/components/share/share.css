@@ -60,4 +60,13 @@
     .shareItemName{
         display: none;
     }
+
+    .shareProfileImg{
+        height: 32px;
+        width: 32px;
+    }
+
+    .shareInput{
+        font-size: 13px;
+    }
 }

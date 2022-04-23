@@ -91,4 +91,12 @@
     .postCaption{
         font-size: 14px;
     }
+
+    .postProfileImg{
+        width: 32px;
+        height: 32px;
+        padding: 10px 10px 3px 10px;
+
+    
+    }
 }
