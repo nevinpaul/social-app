@@ -55,3 +55,9 @@
 .shareItemName{
     margin-left: 8px;
 }
+
+@media screen and (max-width: 700px){
+    .shareItemName{
+        display: none;
+    }
+}

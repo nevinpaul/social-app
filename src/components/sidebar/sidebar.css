@@ -75,3 +75,25 @@
 .sidebarFriendName{
     margin-left: 10px;
 }
+
+@media screen and (max-width: 700px){
+    .sidebarContainer{
+        flex:1;
+    }
+
+    .sidebarItemText{
+        display: none;
+    }
+
+    .sidebarButton{
+        display: none;
+    }
+
+    .sidebarHr{
+        margin: 10px 0px;
+    }
+
+    .sidebarFriendName{
+        display: none;
+    }
+}
