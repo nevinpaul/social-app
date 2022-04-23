@@ -79,4 +79,16 @@
     .postBottom{
         font-size: small;
     }
+
+    .postUsername{
+        font-size: small;
+    }
+
+    .postDate{
+        font-size: 10px;
+    }
+
+    .postCaption{
+        font-size: 14px;
+    }
 }
